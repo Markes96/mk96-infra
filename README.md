@@ -1,9 +1,11 @@
 # mk96-infra
 
-Infraestructura, despliegue y configuración.
+Infrastructure and deployment.
 
-Este repositorio es solo un índice. El código vive en la organización de GitHub **[mk96-infra](https://github.com/mk96-infra)**.
+This repository is only an index. The code lives in the GitHub organization **[mk96-infra](https://github.com/mk96-infra)**.
 
-## Repositorios
+## Repositories
 
-Todavía no hay repositorios.
+<!-- projects:start -->
+No repositories yet.
+<!-- projects:end -->
